@@ -1,0 +1,57 @@
+/* Motion */
+.motion-1 { color: hsla(215, 100%, 65%, 1); } /* #4C97FF */
+.motion-2 { color: hsla(215, 65%, 55%, 1); }  /* #4280D7 */
+.motion-3 { color: hsla(215, 50%, 50%, 1); }  /* #3373CC */
+
+/* Looks */
+.looks-1 { color: hsla(260, 100%, 70%, 1); } /* #9966FF */
+.looks-2 { color: hsla(260, 60%, 60%, 1); }  /* #855CD6 */
+.looks-3 { color: hsla(260, 55%, 55%, 1); }  /* #774DCB */
+
+/* Sounds */
+.sounds-1 { color: hsla(300, 63%, 60%, 1); } /* #CF63CF */
+.sounds-2 { color: hsla(300, 48%, 50%, 1); } /* #C94FC9 */
+.sounds-3 { color: hsla(300, 44%, 45%, 1); } /* #BD42BD */
+
+/* Events */
+.events-1 { color: hsla(38, 100%, 55%, 1); } /* #FFAB19 */
+.events-2 { color: hsla(38, 85%, 50%, 1); }  /* #EC9C13 */
+.events-3 { color: hsla(38, 80%, 45%, 1); }  /* #CF8B17 */
+
+/* Control */
+.control-1 { color: hsla(45, 100%, 50%, 1); } /* #FFBF00 */
+.control-2 { color: hsla(45, 100%, 45%, 1); } /* #E6AC00 */
+.control-3 { color: hsla(45, 100%, 40%, 1); } /* #CC9900 */
+
+/* Sensing */
+.sensing-1 { color: hsla(195, 75%, 60%, 1); } /* #5CB1D6 */
+.sensing-2 { color: hsla(195, 60%, 50%, 1); } /* #47A8D1 */
+.sensing-3 { color: hsla(195, 75%, 45%, 1); } /* #2E8EB8 */
+
+/* Pen */
+.pen-1 { color: hsla(163, 85%, 40%, 1); } /* #0FBD8C */
+.pen-2 { color: hsla(163, 85%, 35%, 1); } /* #0DA57A */
+.pen-3 { color: hsla(163, 85%, 30%, 1); } /* #0B8E69 */
+
+/* Operators */
+.operators-1 { color: hsla(120, 45%, 55%, 1); } /* #59C059 */
+.operators-2 { color: hsla(120, 45%, 50%, 1); } /* #46B946 */
+.operators-3 { color: hsla(120, 45%, 43%, 1); } /* #389438 */
+
+/* Variables */
+.variables-1 { color: hsla(30, 100%, 55%, 1); } /* #FF8C1A */
+.variables-2 { color: hsla(30, 100%, 50%, 1); } /* #FF8000 */
+.variables-3 { color: hsla(30, 100%, 43%, 1); } /* #DB6E00 */
+
+/* Lists */
+.lists-1 { color: hsla(20, 100%, 55%, 1); } /* #FF661A */
+.lists-2 { color: hsla(20, 100%, 50%, 1); } /* #FF5500 */
+.lists-3 { color: hsla(20, 100%, 45%, 1); } /* #E64D00 */
+
+/* Custom */
+.custom-1 { color: hsla(350, 100%, 70%, 1); } /* #FF6680 */
+.custom-2 { color: hsla(350, 100%, 65%, 1); } /* #FF4D6A */
+.custom-3 { color: hsla(350, 100%, 60%, 1); } /* #FF3355 */
+
+/* Text */
+.text-1 { color: hsla(225, 15%, 40%, 1); } /* #575E75 */
