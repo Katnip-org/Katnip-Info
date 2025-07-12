@@ -40,7 +40,7 @@ title: Notes
 		- `blockId`: The comments field pointing back to the owning block
 
 > [!info]
-> This is how blocks are *supposed* to work, but in reality, the `parent` attribute is not *entirely* necessary, making JSON exploits like [ACF Duplication](/docs/JSON-Hacking/Arbitrary_Control_Flow_(Single_Block_Duplication)) entirely possible
+> This is how blocks are *supposed* to work, but in reality, the `parent` attribute is not *entirely* necessary, making JSON exploits like [ACF Duplication](/json-docs/JSON-Hacking/Arbitrary_Control_Flow_Single_Block_Duplication) entirely possible
 
 ## Input types
  
