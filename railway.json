@@ -1,0 +1,7 @@
+{
+  "build": {
+    "builder": "static",
+    "buildCommand": "npm install && npm run build",
+    "distDir": "build"
+  }
+}
