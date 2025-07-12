@@ -1,5 +1,5 @@
 # --- Stage 1: Build Docusaurus site ---
-ARG NODE_VERSION=22.12.0
+ARG NODE_VERSION=20
 FROM node:${NODE_VERSION}-alpine as builder
 
 WORKDIR /usr/src/app
